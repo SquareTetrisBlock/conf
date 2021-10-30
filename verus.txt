@@ -1,0 +1,21 @@
+InventoryManager:false
+ServerCrasher:false
+Target Strafe:false
+ChestStealer:false
+Scaffold:false:true:Slow:true
+Criticals:false:SpoofGround
+Disabler:false:Volvo
+FastBow:false
+Velocity:false:Vanilla:true:0.0:0.0
+Balence:false
+Killaura:false:true:Single:false:4.4:true:off
+Restart:false
+AntiBot:false:false:true:false:true:false
+Speed:true:Verus
+XDDDD:false
+Sprint:true:false:false
+Jesus:false
+Nofall:false
+Step:false:Motion:1.5
+Fly:false:AirCollide
+xd:false
