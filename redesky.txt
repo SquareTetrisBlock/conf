@@ -19,3 +19,4 @@ Nofall:false
 Sprint:true:false
 Jesus:false
 xd:false
+&test
