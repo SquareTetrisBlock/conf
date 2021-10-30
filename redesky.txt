@@ -1,0 +1,21 @@
+Criticals:true:SpoofGround
+InventoryManager:false
+Velocity:false:Cancel
+Killaura:false:true:Single:false:6.7:true:Pre/Post
+ServerCrasher:false
+Target Strafe:false
+ChestStealer:false
+Scaffold:false:false:Fast:false
+Disabler:false:C00
+Step:false:Motion
+Fly:false:Redesky
+FastBow:false
+Balence:false
+Speed:false:a
+AntiBot:false:false:false:false:false:false
+Restart:false
+XDDDD:false
+Nofall:false
+Sprint:true:false
+Jesus:false
+xd:false
