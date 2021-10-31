@@ -20,3 +20,4 @@ Nofall:false
 Sprint:true:false:false
 Timer:false:1.0
 &Default Eternal Client config.
+&Made for version 1.1 and may not bypass well with 1.2
