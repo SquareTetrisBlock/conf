@@ -1,21 +1,24 @@
 Criticals:false:SpoofGround
-InventoryManager:false
+InventoryManager:false:128.0:50.0
 Velocity:true:Vanilla:true:0.0:0.0
-Killaura:false:true:Single:false:5.0:false:off
+Killaura:false:true:Single:false:5.0:false:Vanilla:12.0
 Disabler:true:Volvo
 ServerCrasher:false
-Speed:false:Vanilla
+Speed:false:Vanilla:1.0
 Target Strafe:true
-ChestStealer:false
-Scaffold:false:false:Fast:true
+Fly:false:AirCollide:1.0:Fast:2.0:3.0
+ChestStealer:false:100.0
+Scaffold:false:false:Fast:true:Bar:true:NoCheating+:false
 Step:false:Motion:1.5
-Fly:false:Vanilla
+Phase:false:Vclip
+Jesus:false:Jump
 FastBow:false
 Balence:false
 AntiBot:false:false:true:false:true:false
-Restart:false
 XDDDD:false
+Debug:false:false:true:false:false:false:false:false:25.0
 Nofall:false
 Sprint:true:false:false
-Jesus:false
-xd:false
+Timer:false:1.0
+&Default Eternal Client config.
+&Don't use Vanilla fly, it bans.
