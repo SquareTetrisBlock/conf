@@ -20,3 +20,4 @@ Debug:false:false:true:false:false:false:false:false:25.0
 Nofall:false
 Sprint:true:false:false
 Timer:false:1.0
+&Default Eternal Client config
