@@ -1,22 +1,24 @@
 Criticals:true:SpoofGround
-InventoryManager:false
-Velocity:false:Cancel
-Killaura:false:true:Single:false:6.7:true:Pre/Post
+InventoryManager:true:128.0:50.0
+Velocity:false:Vanilla:false:0.95:0.95
+Killaura:false:true:Single:false:6.7:true:Pre/Post:12.0:6.7
 ServerCrasher:false
 Target Strafe:false
-ChestStealer:false
-Scaffold:false:false:Fast:false
+ChestStealer:true:100.0
+Scaffold:false:true:Fast:false:Number:false:NoCheating+:false
 Disabler:false:C00
-Step:false:Motion
-Fly:false:Redesky
+Step:false:Motion:1.5
+Fly:false:Redesky:1.0:Custom:3.5:4.0
+Phase:false:Vclip
+Jesus:false:Solid
 FastBow:false
 Balence:false
-Speed:false:a
-AntiBot:false:false:false:false:false:false
-Restart:false
+Speed:false:a:1.0
+NoSlow:false:1.0
+AntiBot:false:false:false:false:false:false:false
 XDDDD:false
+Debug:false:false:false:false:false:false:false:false:false:15.0
 Nofall:false
-Sprint:true:false
-Jesus:false
-xd:false
+Sprint:true:false:false
+Timer:false:1.0
 &Default Eternal Client config
