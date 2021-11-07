@@ -1,18 +1,19 @@
-Disabler:true:Verus combat
 Criticals:false:SpoofGround
 InventoryManager:false:128.0:50.0
 Inventorymove:false
 Velocity:true:Vanilla:true:0.0:0.0
+Disabler:true:Verus
 ServerCrasher:false
-Killaura:false:true:Single:false:8.0:true:Vanilla:20.0:12.0
-Scaffold:false:true:Slow:false:Bar:false:NoCheating+:false
-Fly:false:AirCollide:1.0:Custom:3.5:4.0
-Target Strafe:false
+Killaura:false:true:Single:false:8.0:false:Vanilla:20.0:12.0
+Speed:false:Vanilla:1.0
+Scaffold:false:true:Slow:false:Bar:false:NoCheating+:false:true:true
+Target Strafe:true
 ChestStealer:false:100.0:true
 Step:false:Motion:1.5
-Speed:false:Verus:1.0
+AutoClicker:false:18.0
 Phase:false:Vclip
 Jesus:false:Jump
+Fly:false:Vanilla:2.5:true:Custom:3.5:3.0
 FastBow:false
 Balence:false
 NoSlow:true:1.0
@@ -22,4 +23,4 @@ Debug:false:false:false:false:false:false:false:false:false:false:15.0
 Nofall:false
 Timer:false:1.0
 Sprint:true:false:false
-&Config made for version 1.2.3
+&Config made for version 1.2.4
