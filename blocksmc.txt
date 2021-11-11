@@ -1,19 +1,19 @@
-Criticals:false:SpoofGround
+Criticals:true:SpoofGround
 InventoryManager:false:128.0:50.0
 Inventorymove:false
 Velocity:true:Vanilla:true:0.0:0.0
 Disabler:true:Verus
 ServerCrasher:false
-Killaura:false:true:Single:false:8.0:false:Vanilla:20.0:12.0
-Speed:false:Vanilla:1.0
+Killaura:false:true:Single:false:5.4:true:Vanilla:15.0:5.4
 Scaffold:false:true:Slow:false:Bar:false:NoCheating+:false:true:true
+Speed:false:Vanilla:0.5
 Target Strafe:true
 ChestStealer:false:100.0:true
 Step:false:Motion:1.5
 AutoClicker:false:18.0
 Phase:false:Vclip
 Jesus:false:Jump
-Fly:false:Vanilla:2.5:true:Custom:3.5:3.0
+Fly:false:Vanilla:1.0:true:Custom:3.5:3.0
 FastBow:false
 Balence:false
 NoSlow:true:1.0
@@ -22,5 +22,5 @@ XDDDD:false
 Debug:false:false:false:false:false:false:false:false:false:false:15.0
 Nofall:false
 Timer:false:1.0
-Sprint:true:false:false
-&Config made for version 1.2.4
+Sprint:false:false:false
+&Config made by external
