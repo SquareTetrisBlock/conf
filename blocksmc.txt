@@ -1,26 +1,92 @@
-Criticals:false:SpoofGround
-InventoryManager:false:128.0:50.0
-Inventorymove:false
-Velocity:true:Vanilla:true:0.0:0.0
-Disabler:true:Verus
-ServerCrasher:false
-Killaura:false:true:Single:false:5.4:true:Vanilla:15.0:5.4
-Scaffold:false:true:Slow:false:Bar:false:NoCheating+:false:true:true
-Speed:false:Vanilla:0.5
-Target Strafe:true
-ChestStealer:false:100.0:true
-Step:false:Motion:1.5
-AutoClicker:false:18.0
-Phase:false:Vclip
-Jesus:false:Jump
-Fly:false:Vanilla:1.0:true:Custom:3.5:3.0
-FastBow:false
-Balence:false
-NoSlow:true:1.0
-AntiBot:false:false:true:false:true:false:false
-XDDDD:false
-Debug:false:false:false:false:false:false:false:false:false:false:15.0
-Nofall:false
-Timer:false:1.0
-Sprint:false:false:false
-&Config made by external
+Criticals:toggled:false
+Criticals:Mode:SpoofGround
+KillSults:toggled:false
+KillSults:Mode:Redesky
+KillSults:Insult:Eternal
+Velocity:toggled:true
+Velocity:Mode:Vanilla
+Velocity:velH:1.0
+Velocity:velY:1.0
+Velocity:Cancel:true
+InventoryManager:toggled:false
+InventoryManager:Blocks:128.0
+InventoryManager:Delay:100.0
+InventoryManager:Sword:1.0
+InventoryManager:Open inv:false
+Disabler:toggled:false
+Disabler:Mode:Verus
+Disabler:Delay:30.0
+AutoPot:toggled:false
+AutoPot:Health:12.0
+AutoPot:Delay:500.0
+AutoPot:Mode:Jump
+AutoPot:Jump ticks:12.0
+Killaura:toggled:false
+Killaura:Rotations:true
+Killaura:Mode:Single
+Killaura:RayTrace:false
+Killaura:Reach:3.3
+Killaura:Strafe:false
+Killaura:Autoblock:Vanilla
+Killaura:APS:12.0
+Killaura:Swing dist:8.0
+Killaura:Existed:25.0
+Scaffold:toggled:false
+Scaffold:Rotations:true
+Scaffold:Mode:Fast
+Scaffold:sameY:false
+Scaffold:Counter:Number
+Scaffold:Keep Rotations:true
+Scaffold:Tower:NoCheating+
+Scaffold:Tower:true
+Scaffold:Hard Yaw:true
+Scaffold:Hard Pitch:true
+Fly:toggled:false
+Fly:Mode:AirCollide
+Fly:Speed:5.0
+Fly:Keep Y:true
+Fly:Collide Mode:Damage
+Fly:Speed:0.5
+Fly:Delay:2.0
+Fly:Pull delay:4.0
+Fly:Speed:5.0
+Speed:toggled:false
+Speed:Mode:Verus
+Speed:Speed:1.0
+Inventorymove:toggled:false
+Phase:toggled:false
+Phase:Mode:Vclip
+Step:toggled:false
+Step:Mode:Vanilla
+Step:Height:1.0
+Step:Height:1.0
+Jesus:toggled:false
+Jesus:Mode:Solid
+ServerCrasher:toggled:false
+Target Strafe:toggled:false
+ChestStealer:toggled:false
+ChestStealer:Delay:100.0
+ChestStealer:Auto close:true
+ChestStealer:Instant:false
+AutoClicker:toggled:false
+AutoClicker:CPS:20.0
+AutoClicker:ShowCps:true
+FastBow:toggled:false
+Balence:toggled:false
+NoSlow:toggled:true
+NoSlow:SlowDown:1.0
+XDDDD:toggled:false
+AntiBot:toggled:false
+AntiBot:Invisible:false
+AntiBot:Speed:false
+AntiBot:New:false
+AntiBot:Floating:false
+AntiBot:HurtTime:false
+AntiBot:Moved:false
+Nofall:toggled:false
+Sprint:toggled:true
+Sprint:Omni Sprint:false
+Sprint:test:false
+Timer:toggled:false
+Timer:Speed:3.5
+&config made for the christmas edition of Eternal, make sure to have keepY on when using damage fly
