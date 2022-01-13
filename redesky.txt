@@ -1,24 +1,90 @@
-Criticals:true:SpoofGround
-InventoryManager:true:128.0:50.0
-Velocity:false:Vanilla:false:0.95:0.95
-Killaura:false:true:Single:false:6.7:true:Pre/Post:12.0:6.7
-ServerCrasher:false
-Target Strafe:false
-ChestStealer:true:100.0
-Scaffold:false:true:Fast:false:Number:false:NoCheating+:false
-Disabler:false:C00
-Step:false:Motion:1.5
-Fly:false:Redesky:1.0:Custom:3.5:4.0
-Phase:false:Vclip
-Jesus:false:Solid
-FastBow:false
-Balence:false
-Speed:false:a:1.0
-NoSlow:false:1.0
-AntiBot:false:false:false:false:false:false:false
-XDDDD:false
-Debug:false:false:false:false:false:false:false:false:false:15.0
-Nofall:false
-Sprint:true:false:false
-Timer:false:1.0
-&Default Eternal Client config
+Criticals:toggled:true
+Criticals:Mode:SpoofGround
+KillSults:toggled:false
+KillSults:Mode:Redesky
+KillSults:Insult:Eternal
+Velocity:toggled:false
+Velocity:Mode:Vanilla
+Velocity:velH:0.4
+Velocity:velY:0.4
+Velocity:Cancel:false
+InventoryManager:toggled:false
+InventoryManager:Blocks:128.0
+InventoryManager:Delay:100.0
+InventoryManager:Sword:1.0
+InventoryManager:Open inv:false
+Disabler:toggled:false
+Disabler:Mode:Volvo
+Disabler:Delay:30.0
+Killaura:toggled:false
+Killaura:Rotations:true
+Killaura:Mode:Single
+Killaura:RayTrace:false
+Killaura:Reach:3.0
+Killaura:Strafe:true
+Killaura:Autoblock:Packet
+Killaura:APS:10.0
+Killaura:Swing dist:4.7
+Killaura:Existed:10.0
+Scaffold:toggled:false
+Scaffold:Rotations:true
+Scaffold:Mode:Fast
+Scaffold:sameY:false
+Scaffold:Counter:Number
+Scaffold:Keep Rotations:false
+Scaffold:Tower:NoCheating+
+Scaffold:Tower:false
+Scaffold:Hard Yaw:true
+Scaffold:Hard Pitch:false
+AutoPot:toggled:false
+AutoPot:Health:12.0
+AutoPot:Delay:500.0
+AutoPot:Mode:Jump
+AutoPot:Jump ticks:12.0
+Nofall:toggled:false
+Nofall:Mode:Basic1
+Fly:toggled:false
+Fly:Mode:AirCollide
+Fly:Speed:7.25
+Fly:Keep Y:true
+Fly:Collide Mode:Damage
+Fly:Speed:0.5
+Fly:Delay:2.0
+Fly:Pull delay:4.0
+Fly:Speed:5.0
+Speed:toggled:false
+Speed:Mode:Verus
+Speed:Speed:1.0
+Step:toggled:false
+Step:Mode:Vanilla
+Step:Height:1.0
+Step:Height:1.0
+Phase:toggled:false
+Phase:Mode:Vclip
+Jesus:toggled:false
+Jesus:Mode:Solid
+Inventorymove:toggled:false
+Target Strafe:toggled:false
+ChestStealer:toggled:false
+ChestStealer:Delay:100.0
+ChestStealer:Auto close:true
+ChestStealer:Instant:false
+AutoClicker:toggled:false
+AutoClicker:CPS:20.0
+AutoClicker:ShowCps:true
+FastBow:toggled:false
+AntiBot:toggled:false
+AntiBot:Invisible:false
+AntiBot:Speed:false
+AntiBot:New:false
+AntiBot:Floating:false
+AntiBot:HurtTime:false
+AntiBot:Moved:false
+NoSlow:toggled:true
+NoSlow:SlowDown:1.0
+Sprint:toggled:true
+Sprint:Omni Sprint:false
+Sprint:test:false
+Timer:toggled:false
+Timer:Speed:3.5
+&Config made for the Christmas edition of Eternal Client
